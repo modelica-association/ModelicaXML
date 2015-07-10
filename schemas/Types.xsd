@@ -9,6 +9,7 @@
 				<xs:element name="dimension" type="ExpressionType"/>
 				<xs:element name="modifier" type="ArgumentsType"/>
 			</xs:choice>
+			<xs:element name="annotation" type="AnnotationType" minOccurs="0"/>
 		</xs:sequence>
 		<xs:attribute name="visibility" default="public">
 			<xs:simpleType>
