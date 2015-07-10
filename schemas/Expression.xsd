@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSpy v2008 (http://www.altova.com) by Magnus Gäfvert (Modelon AB) -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<!-- - - - - - - - - - - - - - - - - - - - - Support types - - - - - - - - - - - - - - - - - - - - -->
 	<xs:simpleType name="Name">
